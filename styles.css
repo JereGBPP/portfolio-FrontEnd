@@ -1,0 +1,33 @@
+#banner {
+    background-image: url("computer-program-code.jpg");
+    background-size: cover;
+    height: 300px;
+}
+
+#header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+#header h1 {
+    margin: 0;
+}
+
+#header .social {
+    display: flex;
+    align-items: center;
+}
+
+#header .social a {
+    color: #fff;
+    margin-right: 10px;
+}
